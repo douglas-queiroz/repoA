@@ -1,3 +1,4 @@
 [submodule "repoB"]
 	path = repoB
 	url = git@github.com:douglas-queiroz/repoB.git
+	branch = develop
